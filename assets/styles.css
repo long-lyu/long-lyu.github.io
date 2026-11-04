@@ -129,9 +129,9 @@ a { color: var(--teal); }
 .portrait {
   display: block;
   width: 100%;
-  height: 270px;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center 18%;
   background: var(--teal);
 }
 
